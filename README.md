@@ -89,11 +89,11 @@ Oggi lo faccio nel codice.
 
 | Progetto | Cosa fa | Stack |
 |---|---|---|
+| [book-to-audiovideo](https://github.com/MattiaF95/book-to-audiovideo.git) | Workflow di agenti AI per trasformare del testo in narrazione con voci multiple e video | Agentic Workflows |
 | [tris_multiplayer](https://github.com/MattiaF95/tris_multiplayer) | Tris multiplayer — gestione stato condiviso e interazione real-time | Java |
 | [Web-Site-EurCine](https://github.com/MattiaF95/Web-Site-EurCine) | Sito web che simula un cinema: catalogo film, programmazione, logica gestionale | Java, Web |
 | [model-tts-test](https://github.com/MattiaF95/model-tts-test) | Test comparativo su modelli AI text-to-speech su testi narrativi | Python, AI |
 | [pdf-editor](https://github.com/MattiaF95/pdf-editor) | Editor PDF web-based — annotazioni, modifica e gestione documenti direttamente in browser | Angular, TypeScript |
-| [hearbeat](https://github.com/MattiaF95/hearbeat) | Script automatico di ping per monitoraggio uptime | Automation |
 
 > 🔒 Altri progetti in corso sono privati per ora.
 
