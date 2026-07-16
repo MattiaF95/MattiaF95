@@ -1,6 +1,6 @@
 <div align="center">
 
-![riga1](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&height=60&pause=99999&duration=1500&color=FFFFFF&center=true&vCenter=true&width=750&lines=Mattia+Fazi)
+![riga1](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&height=60&pause=99999&duration=1500&color=7B7B7BFF&center=true&vCenter=true&width=750&lines=Mattia+Fazi)
 
 ![riga2](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=30&height=50&pause=99999&duration=2000&color=8B949E&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%7C+Backend-oriented)
 
